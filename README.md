@@ -18,7 +18,7 @@ let monthlyPayment = m.payment();
 // get interest portion of monthly payment
 let interest = m.paymentInterest();
 
-// get monthly pricipal
+// get monthly principal
 let principal = m.paymentPrincipal();
 
 // get amortization schedule
