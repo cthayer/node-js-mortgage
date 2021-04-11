@@ -1,5 +1,7 @@
 # mortgage
 
+[![Build Status](https://travis-ci.com/cthayer/node-js-mortgage.svg?branch=master)](https://travis-ci.com/cthayer/node-js-mortgage)
+
 Library for node.js that calculates mortgages.
 
 ### Usage
