@@ -1,0 +1,19 @@
+{
+  "name": "@cdmnky/mortgage",
+  "version": "1.0.0",
+  "description": "Library for node.js that calculates mortgages",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  },
+  "dependencies": {
+    "bignumber.js": "9.0.1"
+  }
+}
